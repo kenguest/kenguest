@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm a long-time PHP product developer (since PHP 3.0.9 or thereabouts)  and a core contributor since 2017.
+
+🔭 I've also worked on numerous [PEAR](https://www.pear.php.net) packages, but these days I'm am more focused on the php based build system ["phing"](https://www.phing.info/). There's more about me at [about.me/kenguest](https://about.me/kenguest).
+
+📫 Reach me: I'm at kguest@php.net or [twitter/kenguest](https://twitter.com/kenguest)
+
+😄 Pronouns: He/Him
 
 <!--
 **kenguest/kenguest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
