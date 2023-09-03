@@ -2,7 +2,7 @@
 
 🔭 I've also worked on numerous [PEAR](https://www.pear.php.net) packages, but these days I'm more focused on the php based build system ["phing"](https://www.phing.info/). There's more about me at [about.me/kenguest](https://about.me/kenguest).
 
-📫 Reach me: I'm at kguest@php.net or [twitter/kenguest](https://twitter.com/kenguest)
+📫 Reach me: I'm at kguest@php.net, on <a rel="me" href="https://phpc.social/@kenguest">Mastodon</a>  and [twitter/kenguest](https://twitter.com/kenguest)
 
 😄 Pronouns: He/Him
 
