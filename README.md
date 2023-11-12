@@ -1,6 +1,7 @@
 ### I'm a long-time PHP product developer (since PHP 3.0.9 or thereabouts)  and a core contributor since 2017. 
 
 👯 I was elected to the PHP FIG (Framework Interoperability Group) Core Committee in January 2022 and participate in a number of its Working Groups.
+
 🔭 I've also worked on numerous [PEAR](https://www.pear.php.net) packages, but these days I'm more focused on the php based build system ["phing"](https://www.phing.info/). There's more about me at [about.me/kenguest](https://about.me/kenguest).
 
 📫 Reach me: I'm at kguest@php.net, on <a rel="me" href="https://phpc.social/@kenguest">Mastodon</a>  and [twitter/kenguest](https://twitter.com/kenguest)
