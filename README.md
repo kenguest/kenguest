@@ -21,6 +21,7 @@ I enjoy understanding the problem behind a feature, making pragmatic technical d
 
 - **Backend:** PHP, Laravel, Symfony, Yii, Zend Framework, APIs, and application architecture
 - **Frontend:** JavaScript, TypeScript, HTML, CSS, and Tailwind CSS
+- **Databases:** MySQL, SQLite, Oracle, and PostgreSQL
 - **Mobile and connected devices:** Cross-platform mobile applications and Bluetooth Low Energy (BLE) integrations
 - **Engineering practices:** Testing, refactoring, code quality, troubleshooting, and delivery
 - **Currently expanding:** TypeScript and modern frontend development (React)
@@ -98,6 +99,12 @@ I enjoy understanding the problem behind a feature, making pragmatic technical d
 ## Open Source and learning
 
 I use personal projects and open-source work to explore ideas, improve my skills, and share practical solutions. I'm currently expanding my experience with TypeScript and modern frontend tooling.
+
+## Hobbies
+- **Home Assistant:** I use this extremely powerful Smart Home platform to manage most aspects of home life
+- **Self Hosting:** I enjoy running my own services that I can access them from whereever I am, including developing ones of my own to fit my own personal needs.
+- **Open Source:** I've contributed to many Open Source projects over the years including Phing (the PHP based Build System), PEAR and others. I'm a longterm member of the PHP Interoperability Framework Group.
+- **Reading:**  I enjoy reading a wide range of genres such as Fantasy, Sci-Fi, and autobiographies. And looking at cookbooks for inspiration.
 
 ## Get in touch
 
