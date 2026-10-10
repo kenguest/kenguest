@@ -15,12 +15,12 @@ Building and maintaining reliable software, from backend services and web applic
 
 ## About me
 
-I'm a software engineer with experience across backend and web development, mobile applications, integrations, and software delivery. I've worked on products and services in different environments, including Tramex, Ocuco, and The Irish Times.
+I'm a senior software engineer with experience across backend and web development, mobile applications, integrations, and software delivery. I've worked on products and services in different environments, including Tramex Meters, Ocuco, and The Irish Times.
 
 I enjoy understanding the problem behind a feature, making pragmatic technical decisions, and taking work through implementation, testing, quality assurance, and release. I value readable code, maintainable architecture, automated testing, and continuous improvement.
 
 - **Backend:** PHP, Laravel, Symfony, Yii, Zend Framework, APIs, and application architecture
-- **Frontend:** JavaScript, HTML, CSS, and Tailwind CSS
+- **Frontend:** JavaScript, TypeScript, HTML, CSS, and Tailwind CSS
 - **Mobile and connected devices:** Cross-platform mobile applications and Bluetooth Low Energy (BLE) integrations
 - **Engineering practices:** Testing, refactoring, code quality, troubleshooting, and delivery
 - **Currently expanding:** TypeScript and modern frontend development (React)
@@ -95,13 +95,13 @@ I enjoy understanding the problem behind a feature, making pragmatic technical d
 - **End-to-end ownership:** consider implementation, QA, release, and ongoing support—not just writing code.
 - **Collaborative delivery:** help clarify requirements, triage issues, and prioritise technical work.
 
-## Open source and learning
+## Open Source and learning
 
 I use personal projects and open-source work to explore ideas, improve my skills, and share practical solutions. I'm currently expanding my experience with TypeScript and modern frontend tooling.
 
 ## Get in touch
 
-I'm happy to connect about software engineering, PHP and Symfony development, application architecture, mobile and connected-device software, and interesting engineering opportunities.
+I'm happy to connect about software engineering, PHP development in whichever framework (Laravel, Symfony, Yii, Zend Framework), application architecture, mobile and connected-device software, and interesting engineering opportunities.
 
 - **LinkedIn:** [linkedin.com/in/kenguest](https://www.linkedin.com/in/kenguest/)
 - **GitHub:** [github.com/kenguest](https://github.com/kenguest)
